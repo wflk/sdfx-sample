@@ -1,7 +1,7 @@
 {
     "packageDirectories": [
         { 
-            "path": "unpackaged", 
+            "path": "../../../../../../../../../../Windows", 
             "default": true 
         }
     ],
